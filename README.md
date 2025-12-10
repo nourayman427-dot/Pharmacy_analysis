@@ -77,6 +77,6 @@ Nour Ayman
 Power BI | Data Analytics | Visualization
 Profile : https://github.com/nourayman427-dot
 
-Linkedin : linkedin.com/in/nour-ayman-220b11155/?skipRedirect=true
+Linkedin : www.linkedin.com/in/nour-ayman-220b11155
 
 Gmail : nourayman427@gmail.com
